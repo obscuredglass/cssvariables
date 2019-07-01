@@ -7,4 +7,4 @@ A neat little project that uses Javascript variables to override CSS properties.
 2. JavaScript
 3. CSS
 
-![What the application looks like:](/assets/images/cssvariablescreenshot.png)
+![What the application looks like:](/assets/img/cssvariablescreenshot.png)

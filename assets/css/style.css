@@ -1,5 +1,5 @@
 :root {
-  --base: #ffc600;
+  --base: #e3b594;
   --spacing: 20px;
   --blue: 10px;
 }
@@ -19,7 +19,7 @@ img {
 
   body {
     text-align: center;
-    background: #193549;
+    background: #1a2e37;
     color: white;
     font-family: 'helvetica neue', sans-serif;
     font-weight: 100;

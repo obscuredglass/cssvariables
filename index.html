@@ -21,9 +21,26 @@
   <img src="https://source.unsplash.com/7bwQXzbF6KE/800x500">
 
   <style>
-    /*
-      misc styles, nothing to do with CSS variables
-    */
+  
+  :root {
+    --base: #ffc600;
+    --spacing: 20px;
+    --blue: 10px;
+  }
+
+  img {
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blue(var(--blue));
+
+  }
+
+  .h1{
+    color: var(--base);
+  }
+
+
+
     body {
       text-align: center;
       background: #193549;
